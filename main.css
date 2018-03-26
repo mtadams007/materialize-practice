@@ -4,13 +4,25 @@
 
 body {
   font-family: Roboto;
+  background-color: #303030;
 }
 .card {
-  height: 470px;
+  height: 440px;
+}
+
+.card-content {
+  font-size: 14px;
+}
+
+.title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 25px;
 }
 
 .navbar-fixed {
   font-family: Open Sans;
+  background-color: #EB5757;
 }
 
 img {
