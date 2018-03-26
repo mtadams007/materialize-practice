@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body {
+  font-family: Roboto;
+}
+.card {
+  height: 470px;
+}
+
+.navbar-fixed {
+  font-family: Open Sans;
+}
+
+img {
+  height: 160px;
+  max-width: 100%;
+}
